@@ -2,7 +2,10 @@
   <img src="https://capsule-render.vercel.app/api?&animation=fadeIn&type=waving&color=auto&height=300&section=header&text=Hello%20Guys&fontSize=90" />
 </p>
 
-<a href="https://www.instagram.com/sixsixsixtimes/">
+
+<h2 align="center"> Lets Connect and Have a Chat</h2>
+<p align="center">
+<a  href="https://www.instagram.com/sixsixsixtimes/">
   <img height="50" src="https://user-images.githubusercontent.com/90148295/193450147-7871c485-010a-495c-96d4-228ea5d9b8bb.png"/>
 </a>
 
@@ -13,10 +16,17 @@
 <a href="https://www.facebook.com/perviz.isa/">
   <img height="50" src="https://user-images.githubusercontent.com/90148295/193451344-3fbc8cab-9ce6-4636-b469-d1911ca7e458.png"/>
 </a>
+</p>
+
 
 <p align="center">
   <img  src="https://media.giphy.com/media/dyjrpqaUVqCELGuQVr/giphy.gif"/>
 </p>
+
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31r2fjm65flza5npacksixj2iagm&cover_image=true&theme=default&show_offline=false)](https://spotify-github-profile.vercel.app/api/view?uid=31r2fjm65flza5npacksixj2iagm&redirect=true)
+
+<h2> A little bit about me and my interests</h2>
 
 ```yaml
 * name: Parviz Isa
@@ -52,8 +62,8 @@ hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]*
 ```
 
 
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
-<p align="left">
+<h2 align="center" > 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="45" height="45"/>
@@ -65,5 +75,7 @@ hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]*
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bs5" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="next" width="45" height="45"/>
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
 
 </p>
