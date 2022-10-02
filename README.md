@@ -26,6 +26,11 @@
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31r2fjm65flza5npacksixj2iagm&cover_image=true&theme=default&show_offline=false)](https://spotify-github-profile.vercel.app/api/view?uid=31r2fjm65flza5npacksixj2iagm&redirect=true)
 
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=perviz023&show_icons=true&theme=dracula)
+
+
 <h2> A little bit about me and my interests</h2>
 
 ```yaml
