@@ -10,6 +10,10 @@
   <img height="50" src="https://user-images.githubusercontent.com/90148295/193450338-96f56e79-8eec-4fff-b568-1d02b74ca810.png"/>
 </a>
 
+<a href="https://www.facebook.com/perviz.isa/">
+  <img height="50" src="https://user-images.githubusercontent.com/90148295/193451344-3fbc8cab-9ce6-4636-b469-d1911ca7e458.png"/>
+</a>
+
 <p align="center">
-  <img  src="https://media.giphy.com/media/q217GUnfKAmJlFcjBX/giphy.gif"/>
+  <img  src="https://media.giphy.com/media/dyjrpqaUVqCELGuQVr/giphy.gif"/>
 </p>
