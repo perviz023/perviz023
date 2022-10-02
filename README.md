@@ -19,16 +19,15 @@
 </p>
 
 ```yaml
-* name: Piyush Malhotra
-located_in: Montreal, Quebec
-current_job: Full Stack Developer
+* name: Parviz Isa
+located_in: Baku, Azerbaijan
+current_job: React Native Developer
 education:
   [
-    "Self-Taught Developer and Designer",
-    "Master's in Electrical and Computer Engineering",
-    "Bachelor's in Electronics and Communication",
+    "Front-End (React) Developer in ATL Academy",
+    "Bachelor's in Georgian Technical University",
   ]
-company: Soulber
+
 
 fields_of_interests:
   [
@@ -41,10 +40,10 @@ fields_of_interests:
   ]
 technical_background:
   [
-    "DevOps Solutions Architect",
-    "Intern - Data Science & Machine Learning in Python",
+   
+    "Intern - Flegri",
     "Intern - Internet Of Things",
-    "Intern - VLSI and FPGA Implementation",
+    
   ]
   
 currently_learning: ["Docker, Kubernetes and React Native"]
