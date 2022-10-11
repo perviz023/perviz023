@@ -56,7 +56,7 @@ fields_of_interests:
 technical_background:
   [
    
-    "Intern - Flegri",
+    "Front-end Dev - Flegri",
     "Intern - Internet Of Things",
     
   ]
