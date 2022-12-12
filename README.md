@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?&animation=fadeIn&type=waving&color=auto&height=300&section=header&text=Hello%20Guys&fontSize=90" />
+  <img src="https://capsule-render.vercel.app/api?&animation=blink&type=rect&color=auto&height=150&section=header&text=React%20Native&fontSize=40&textBg=true"
+  />
 </p>
 
 
@@ -20,15 +21,18 @@
 
 
 <p align="center">
-  <img  src="https://media.giphy.com/media/dyjrpqaUVqCELGuQVr/giphy.gif"/>
+  <img src="https://media.giphy.com/media/jj1xut6ZsokKI/giphy.gif"  >
 </p>
 
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31r2fjm65flza5npacksixj2iagm&cover_image=true&theme=default&show_offline=false)](https://spotify-github-profile.vercel.app/api/view?uid=31r2fjm65flza5npacksixj2iagm&redirect=true)
 
 
+<p align="center">
+<img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31r2fjm65flza5npacksixj2iagm&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31r2fjm65flza5npacksixj2iagm&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=db0a0a&bar_color_cover=false"/> </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=perviz023&show_icons=true&theme=dracula)
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=perviz023&show_icons=true&theme=dracula"/> </p>
 
 
 <h2> A little bit about me and my interests</h2>
@@ -55,7 +59,7 @@ fields_of_interests:
   ]
 technical_background:
   [
-   
+    "React Native Dev - 4^21 Group",
     "Front-end Dev - Flegri",
     "Intern - Internet Of Things",
     
@@ -86,4 +90,6 @@ hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]*
 </p>
 
 
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+<img src="https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg"/> 
+</p>
